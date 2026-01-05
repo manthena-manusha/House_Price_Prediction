@@ -1,0 +1,6 @@
+Metric Used:
+R² Score
+Higher R² indicates better prediction accuracy.
+
+Best Model:
+Ensemble models (Random Forest / Gradient Boosting) outperformed Linear Regression due to non-linear learning capability.
