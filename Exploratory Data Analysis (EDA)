@@ -1,0 +1,9 @@
+EDA was performed using:
+Histograms to understand feature distributions
+Correlation heatmap to analyze relationships
+Scatter and box plots for feature–price relationships
+
+Key Insights:
+Area shows strong positive correlation with price
+Houses with more bedrooms and bathrooms generally cost more
+Amenities like air conditioning and preferred area increase price
