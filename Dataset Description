@@ -1,0 +1,12 @@
+The dataset contains housing-related features used to predict house prices.
+
+Target Variable:
+price → Final house price (regression target)
+
+Numeric Features:
+area, bedrooms, bathrooms, stories, parking
+
+Categorical Features:
+mainroad, guestroom, basement
+hotwaterheating, airconditioning
+prefarea, furnishingstatus
