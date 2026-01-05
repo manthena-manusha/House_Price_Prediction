@@ -1,0 +1,7 @@
+Categorical variables were converted using one-hot encoding:
+pd.get_dummies(df, drop_first=True)
+
+Why?
+ML models require numerical input
+drop_first=True avoids multicollinearity
+Improves model stability and performance
