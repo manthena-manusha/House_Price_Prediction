@@ -1,0 +1,14 @@
+House_Price_Prediction/
+│
+├── data/
+│   └── Housing.csv
+│
+├── notebooks/
+│   └── House_Price_Prediction.ipynb
+│
+├── models/
+│   └── house_price_model.pkl
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
